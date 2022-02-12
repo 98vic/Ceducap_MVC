@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/ceducap/public_html/
-    - /bin/rsync -av CEDUCAP/  $DEPLOYPATH
+    - /bin/rsync -a Ceducap/  $DEPLOYPATH
