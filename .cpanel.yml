@@ -1,0 +1,5 @@
+---
+deplomen:
+  tasks:
+    - export DEPLOYPATH=/home/ceducap/public_html/
+    - /bin/rsync -av public/  $DEPLOYPATH
