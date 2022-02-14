@@ -56,6 +56,12 @@
                 <h3>Correo</h3>
                 <span><img class="ima" src="/build/img/envelope-solid.svg" alt=""> info@ceducap.org</span>
             </div>
+           
+            <div class="ubicacion">
+                <h3>Aviso de Privacidad</h3>
+                <span><a href="/build/img/AvisoPrivacidad.pdf" target="_blank">Aviso de Privacidad</a></span>
+            </div>
+
         </div>
     </footer>
 
