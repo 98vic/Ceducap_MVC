@@ -18,8 +18,8 @@
 
         <div class="datos cuaderno">
             <h2>Consursos</h2>
-            <p>El primer concurso se llevará a cabo en el mes de abril del año 2022 </p>
-            <p>El segundo concurso en el mes de agosto de 2022-II Y el tercero en el mes de diciembre de 2022-III</p>
+            <p>El primer concurso se llevará a cabo en el mes de Mayo del año 2022 </p>
+            <p>El segundo concurso en el mes de Septiembre de 2022-II Y el tercero en el mes de Diciembre de 2022-III</p>
             <p>Los ganadores serán notificados vía telefónica, y en la página oficial de CEDUCAP y recibirán su premio en presencia de sus padres / tutores.</p>
         </div>
 
