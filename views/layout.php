@@ -59,7 +59,7 @@
            
             <div class="ubicacion">
                 <h3>Aviso de Privacidad</h3>
-                <span><a href="/build/img/AvisoPrivacidad.pdf" target="_blank">Aviso de Privacidad</a></span>
+                <span><a href="/build/img/AvisoPrivacidad3.pdf" target="_blank">Aviso de Privacidad</a></span>
             </div>
 
         </div>
